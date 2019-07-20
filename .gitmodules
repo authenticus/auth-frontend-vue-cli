@@ -1,0 +1,3 @@
+[submodule "src/vendor/auth-frontend-shared"]
+	path = src/vendor/auth-frontend-shared
+	url = https://github.com/authenticus/auth-frontend-shared
